@@ -195,7 +195,7 @@
     <string name="retry">Retry</string>
 
     <string name="settings_ssid_name_howto_url" translatable="false">https://www.openhab.org/docs/apps/android.html#wifi-ssid-name</string>
-    <string name="settings_ssid_name_summary_on">Sends Wi-Fi SSID name</string>
+    <string name="settings_ssid_name_summary_on">Sends Wi-Fi SSID name to item \'%1$s\'</string>
     <string name="settings_ssid_name_summary_off">Don\'t send Wi-Fi SSID name to server</string>
     <string name="settings_ssid_name">Send Wi-Fi SSID name to openHAB</string>
 
